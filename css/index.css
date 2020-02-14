@@ -185,8 +185,23 @@ footer nav a {
     text-decoration: none;
 }
 
-nav{
-    display:flex;
-    justify-content: space-around;
-    margin-bottom: 5%;
+header{
+    dsiplay:flex;
 }
+
+nav a{
+    margin-left: 5%;
+    position: relative;
+    left: 34%;
+}
+
+.lambda{
+    position:relative;
+    left:85px;
+}
+
+.image2{
+    margin-left:4%;
+}
+
+
