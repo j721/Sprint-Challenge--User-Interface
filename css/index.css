@@ -198,6 +198,7 @@ nav a{
 .lambda{
     position:relative;
     left:85px;
+    margin-bottom: 42px;
 }
 
 .image2{
@@ -207,9 +208,50 @@ nav a{
 .section1{
     display:flex;
     justify-content: flex-start;
+    margin-top:4%
 }
+
 
 .section2{
     display:flex;   
     justify-content: flex-start;
+}
+
+p{
+    padding-bottom: 3%;
+}
+
+.Strategy{
+    border-bottom: 1px dashed black;
+}
+
+.Places{
+    border-bottom: 1px dashed black;
+}
+
+.Collaboration{
+    border-bottom: 1px dashed black;
+    margin-bottom:5%;
+}
+
+.How{
+    border-bottom: 1px dashed black;
+    margin-bottom:5%;
+   
+}
+
+.image3{
+    margin-left:8%;
+}
+
+hr{
+border-top: 1px dotted black;
+}
+
+.links{
+    margin-top:2%;
+}
+
+.button{
+    border: 1 px solid black;
 }
