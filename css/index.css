@@ -197,7 +197,7 @@ nav a{
 
 .lambda{
     position:relative;
-    left:85px;
+    left:15%;
     margin-bottom: 42px;
 }
 
@@ -223,25 +223,31 @@ p{
 
 .Strategy{
     border-bottom: 1px dashed black;
+    margin-bottom: 3%;
+    margin-right: 2%;
 }
 
 .Places{
     border-bottom: 1px dashed black;
+    margin-bottom: 3%;
+    margin-right: 2%;
 }
 
 .Collaboration{
     border-bottom: 1px dashed black;
-    margin-bottom:5%;
+    margin-bottom:4%;
+    margin-left: 6%;
 }
 
 .How{
     border-bottom: 1px dashed black;
-    margin-bottom:5%;
+    margin-bottom:4%;
+    margin-left: 6%;
    
 }
 
 .image3{
-    margin-left:8%;
+    margin-left:15%;
 }
 
 hr{
@@ -252,6 +258,14 @@ border-top: 1px dotted black;
     margin-top:2%;
 }
 
-.button{
-    border: 1 px solid black;
+position: absolute;
+bottom: 0;
+left: 0;
+height: 50%;
+width: 1px;
+}
+
+button{
+    margin-bottom:2%;
+    border-radius: 2px;
 }
