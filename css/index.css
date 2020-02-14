@@ -204,4 +204,12 @@ nav a{
     margin-left:4%;
 }
 
+.section1{
+    display:flex;
+    justify-content: flex-start;
+}
 
+.section2{
+    display:flex;   
+    justify-content: flex-start;
+}
